@@ -11,7 +11,7 @@ I use JPA as a intermediary between the app and the database
 * Xampp
 * mysql
 
-#Images of the app:
+# Images of the app:
 
 ![Main screen](https://i.ibb.co/FnKBYqr/car1.png)
 
